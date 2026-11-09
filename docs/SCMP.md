@@ -182,7 +182,7 @@ Any proposed change to a controlled item must be recorded before implementation.
 
 ### 8.2 Review, approval, and implementation
 
-The Configuration Manager or Project Manager reviews the request and considers its impact on scope, schedule, related files, tests, and existing baselines. The request is approved, rejected, or deferred, and the decision is recorded in the Issue. An approved change is implemented on a separate branch, tested, and submitted for review. After acceptance, it is merged and the related Issue is closed. The CI register, documentation, tests, and baseline records are updated when affected.
+The Configuration Manager reviews the request and considers its impact on scope, schedule, related files, tests, and existing baselines. The request is approved, rejected, or deferred, and the decision is recorded in the Issue. An approved change is implemented on a separate branch, tested, and submitted for review. After acceptance, it is merged and the related Issue is closed. The CI register, documentation, tests, and baseline records are updated when affected.
 
 
 ### 8.3 Emergency changes
