@@ -27,6 +27,7 @@ Baseline BL-001 establishes the foundational SCM documentation and rules before 
 3. The Master Configuration Item Inventory Register (`docs/CI_INVENTORY.csv`).
 4. The CI Naming Conventions and Versioning Standards (`docs/CI_NAMING_CONVENTIONS.md`).
 5. This Initial Project Configuration Baseline Record (`docs/INITIAL_CONFIGURATION_BASELINE.md`).
+6. The Project Overview and Setup Guide (`README.md`).
 
 ---
 
@@ -49,6 +50,7 @@ The following configuration items have been authored, verified, and placed under
 
 | CI ID | CI Name | Category | Repository Location | Version | Baseline Status | Role Responsible |
 |:---|:---|:---|:---|:---|:---|:---|
+| **DOC-001** | Project README and Setup Guide | User Documentation | `README.md` | 1.0.0 | Included | Project Manager / Documentation Lead |
 | **DOC-003** | Software Configuration Management Plan (SCMP) | SCM Documentation | `docs/SCMP.md` | 1.0.0 | Included | Configuration Manager |
 | **DOC-004** | Configuration Identification Document | SCM Documentation | `docs/CONFIGURATION_IDENTIFICATION.md` | 1.0.0 | Included | Configuration Manager |
 | **DOC-005** | CI Naming Conventions and Versioning Standards | SCM Documentation | `docs/CI_NAMING_CONVENTIONS.md` | 1.0.0 | Included | Configuration Manager |
@@ -78,7 +80,6 @@ The following items have been identified and registered in the inventory, but ha
 - **`SRC-005`**: Global Application Stylesheets (`src/styles/App.css`, `src/styles/index.css`) – Planned.
 - **`DAT-001`**: Sample Hotel Catalog Dataset (`src/data/hotels.json`) – Planned.
 - **`DAT-002`**: Browser LocalStorage Booking Schema Specification (`src/utils/storage.js`) – Planned.
-- **`DOC-001`**: Project README and Setup Guide (`README.md`) – Planned.
 
 ### 4.3 Pending Baseline BL-004: Test & Verification Baseline
 - **`TST-001`**: Functional Test Cases Specification (`tests/TEST_CASES.md`) – Planned.
