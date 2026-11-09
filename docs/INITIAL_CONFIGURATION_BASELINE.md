@@ -8,7 +8,7 @@
 **Academic Course:** Software Configuration Management (SCM) – AASTU  
 **Establishment Date:** November 9, 2026  
 **Governing Standard:** IEEE Std 828-2012 / AASTU SCM Week 5 Guidelines  
-**Configuration Manager:** Beimnet Melese  
+**Responsible Role:** Configuration Manager  
 **Status:** Established and Frozen for SCM Governance  
 
 ---
@@ -99,7 +99,7 @@ The following items have been identified and registered in the inventory, but ha
 
 ## 6. Baseline Authority, Responsibilities, and Approval
 
-- **Baseline Lead / Configuration Manager:** Beimnet Melese  
+- **Baseline Lead / Configuration Manager:** Configuration Manager  
   - *Responsibilities:* Compiles documentation artifacts, verifies file structure against naming conventions, initiates baseline commit on `main`, applies annotated tag `ci-baseline-v1.0`, and maintains status accounting.
 - **Project Manager / Team Lead:**  
   - *Responsibilities:* Reviews completeness of deliverables against AASTU SCM Task 2 objectives, ensures alignment with IEEE Std 828-2012, and authorizes freezing Baseline BL-001.
@@ -149,7 +149,7 @@ sequenceDiagram
 I hereby certify that Baseline BL-001 has been established in accordance with the Software Configuration Management Plan (`docs/SCMP.md`) and IEEE Std 828-2012. All included items are present in the repository, correctly categorized, and uniquely identified. No unauthorized changes or implementation code have been introduced at this stage.
 
 **Signed:**  
-Beimnet Melese  
-*Configuration Manager, Multi-Hotel Booking and Management Platform*  
+Configuration Manager  
+*Multi-Hotel Booking and Management Platform*  
 Date: November 9, 2026
 

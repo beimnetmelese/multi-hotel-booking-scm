@@ -7,7 +7,7 @@
 **Baseline Association:** Baseline BL-001 (Initial Configuration Identification Baseline)  
 **Date:** November 9, 2026  
 **Primary Standards & References:** IEEE Std 828-2012 / AASTU SCM Week 5: SCM Plan and Tools  
-**Author / Responsible Role:** Configuration Manager (Beimnet Melese)  
+**Author / Responsible Role:** Configuration Manager  
 
 ---
 
@@ -155,8 +155,8 @@ SCM requires clear organizational assignment of responsibility for each CI to pr
 
 | Project Role | Designated Role Holder | SCM Responsibilities & CI Ownership | Owned CI IDs |
 |:---|:---|:---|:---|
-| **Configuration Manager** | Beimnet Melese | Maintains SCMP, establishes baselines, creates Git tags, enforces naming conventions, audits CI repository layout, maintains inventory. | `CFG-001`–`CFG-004`, `DOC-003`–`DOC-005`, `REL-001`–`REL-002` |
-| **Project Manager** | Team Lead / Beimnet Melese | Approves baselines, chairs Change Control Board (CCB), reviews major change requests, coordinates course milestone submissions. | `REQ-001`, `DOC-001`, Baseline Sign-off |
+| **Configuration Manager** | Configuration Manager | Maintains SCMP, establishes baselines, creates Git tags, enforces naming conventions, audits CI repository layout, maintains inventory. | `CFG-001`–`CFG-004`, `DOC-003`–`DOC-005`, `REL-001`–`REL-002` |
+| **Project Manager** | Project Manager / Team Lead | Approves baselines, chairs Change Control Board (CCB), reviews major change requests, coordinates course milestone submissions. | `REQ-001`, `DOC-001`, Baseline Sign-off |
 | **Lead Architect / Designer** | Project Team | Develops UI wireframes, page flow models, component interaction diagrams, state management schemas. | `DES-001`, `DES-002`, `DAT-002` |
 | **Frontend Developer** | Project Team | Implements React components, JSX views, CSS styling, mock data bindings, and localStorage utilities on feature branches. | `SRC-001`–`SRC-005`, `DAT-001` |
 | **Test Engineer / QA Lead** | Project Team | Authors test cases, executes functional and browser verification, documents defect logs and baseline verification sign-offs. | `TST-001`, `TST-002` |
@@ -319,7 +319,7 @@ The following table provides the human-readable master inventory of all software
 
 This document and the associated configuration item inventory have been prepared and reviewed in accordance with IEEE Std 828-2012 and the AASTU SCM Week 5 curriculum requirements.
 
-- **Prepared By:** Beimnet Melese (Configuration Manager) — November 9, 2026  
+- **Prepared By:** Configuration Manager — November 9, 2026  
 - **Reviewed & Approved By:** Project Management / Course Instructor (Academic Review)  
 - **Associated Baseline:** Baseline BL-001 (Initial Configuration Identification Baseline)
 
